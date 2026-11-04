@@ -19,3 +19,11 @@ Utilizing open source components, RDK drastically reduces development cycles, en
 ## 🤝 Get Involved
 [![Get Involved](https://img.shields.io/badge/🚀_Get_Involved-Join_RDK-blue?style=for-the-badge)](https://rdkcentral.com/join)
 </div>
+
+### Contributing to RDKCentral
+We welcome contributions to RDKCentral open-source projects.
+
+Before submitting a contribution, please review:
+
+Contribution Guidelines
+AI-Assisted Contribution Policy
