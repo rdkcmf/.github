@@ -1,7 +1,3 @@
-# Welcome to RDK Central 🚀
-
-![RDK](https://rdkcentral.com/wp-content/uploads/2023/07/RDK-Logo-web.png)
-
 ## About RDK Central
 
 RDK Central is the **open source consortium** that manages the **Reference Design Kit (RDK)** - a fully modular, portable, and customizable open source software platform for the connected home. RDK standardizes core functions used in broadband devices, set-top boxes, and IoT devices.
