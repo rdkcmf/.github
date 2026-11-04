@@ -23,4 +23,5 @@ We welcome contributions to RDKCentral open-source projects.
 Before submitting a contribution, please review:
 
 Contribution Guidelines
+
 [RDKCentral AI Contribution Policy](https://github.com/rdkcmf/.github/blob/main/AI-Contribution-Policy.md)
