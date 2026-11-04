@@ -24,5 +24,4 @@ Before submitting a contribution, please review:
 
 Contribution Guidelines
 
-AI Contribution Policy
 [RDKCentral AI Contribution Policy](https://github.com/rdkcmf/.github/blob/main/AI-Contribution-Policy.md
