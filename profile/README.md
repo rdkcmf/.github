@@ -16,14 +16,12 @@ Utilizing open source components, RDK drastically reduces development cycles, en
 - **Leverage data analytics** to improve customer experience and drive business results
 - **Deploy faster** with standardized core functions across device types
 
-## 🤝 Get Involved
-[![Get Involved](https://img.shields.io/badge/🚀_Get_Involved-Join_RDK-blue?style=for-the-badge)](https://rdkcentral.com/join)
-</div>
+## 🤝 Contributing to RDKCentral
 
-### Contributing to RDKCentral
 We welcome contributions to RDKCentral open-source projects.
 
 Before submitting a contribution, please review:
 
 Contribution Guidelines
+
 AI-Assisted Contribution Policy
